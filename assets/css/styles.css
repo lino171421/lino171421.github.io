@@ -1,0 +1,18 @@
+.top{
+    display: inline-flex;
+}
+.nombre {
+  font-size: 65px;
+  background-color: rgb(78, 163, 123);
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+.correo {
+  font-size: 25px;
+}
+.foto {
+  width: 20%;
+  height: 20%;
+  margin: 1%;
+  border:solid 2px rgb(25, 71, 11);
+}
