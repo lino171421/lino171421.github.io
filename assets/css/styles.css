@@ -1,5 +1,5 @@
-.top{
-    display: inline-flex;
+.top {
+  display: inline-flex;
 }
 .nombre {
   font-size: 65px;
@@ -14,15 +14,28 @@
   width: 20%;
   height: 20%;
   margin: 1%;
-  border:solid 2px rgb(25, 71, 11);
+  border: solid 2px rgb(25, 71, 11);
 }
-.sobremi{
+.sobremi {
   text-align: center;
   margin: 10px;
 }
-.educ{
+.educ {
   text-align: center;
   color: black;
 }
-p{
-  font-size: 25px;}
+p {
+  font-size: 25px;
+}
+.liceo img{
+  width: 25%;
+  display:flex;
+  border: solid 5px black;
+}
+.mitad1{
+  border: solid 1px black;
+  display: inline-flex;
+}
+.cualidades{
+  font-size: 25px;
+}
